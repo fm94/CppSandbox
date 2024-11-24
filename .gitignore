@@ -1,0 +1,12 @@
+# Build directory
+build/
+
+# Eigen library (optional, if you want to exclude it from version control)
+extern/eigen/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
