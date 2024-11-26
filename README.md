@@ -19,8 +19,8 @@ A simple, modular C++ project for testing and benchmarking code snippets. Measur
 ### Clone and Build
 ```bash
 # Clone the repository with submodules
-git clone --recursive [your-repo-url]
-cd [repo-name]
+git clone --recursive https://github.com/fm94/CppSandbox.git
+cd CppSandbox
 
 # Create build directory and build
 cmake -B build -G "Visual Studio 17 2022" -A x64
